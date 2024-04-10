@@ -2,9 +2,8 @@
 	"name": "mini-next-vs-code",
 	"displayName": "mini-next-vs-code",
 	"description": "Syntax highlighting for mini-next",
-	"version": "1",
+	"version": "1.0.0",
 	"publisher": "Spirobel",
-	"icon": "docs/logo.png",
 	"engines": {
 		"vscode": "^1.19.0"
 	},
