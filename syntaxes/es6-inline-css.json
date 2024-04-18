@@ -22,7 +22,7 @@
   },
   "patterns": [
     {
-      "begin": "(?i)(\\s?\\/\\*\\s?(css|inline-css)\\s?\\*\\/\\s?)(`)",
+      "begin": "(?i)(\\s?\\/\\*\\s?(mini.css|css|inline-css)\\s?\\*\\/\\s?)(`)",
       "beginCaptures": {
         "1": {
           "name": "comment.block"
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "begin": "(?i)(\\s*(css|inline-css))(`)",
+      "begin": "(?i)(\\s*(mini.css|css|inline-css))(`)",
       "beginCaptures": {
         "1": {
           "name": "comment.block"
