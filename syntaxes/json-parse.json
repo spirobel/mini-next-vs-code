@@ -4,7 +4,7 @@
   "patterns": [
     {
       "contentName": "source.json",
-      "begin": "(?x)(\\b(?:\\w+\\.)*(?:JSON.parse\\(mini.json|json)\\s*)(`)",
+      "begin": "(?x)(\\b(?:\\w+\\.)*(?:JSON.parse\\(mini.json|mini.dangerjson|dangerjson|json)\\s*)(`)",
       "beginCaptures": {
         "1": {
           "patterns": [
