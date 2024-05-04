@@ -2,7 +2,8 @@
 
 Install this to have a better experience with mini-next in vs-code
 
-[mininext github](https://github.com/spirobel/mini-next-vs-code)
+[mininext github](https://github.com/spirobel/mininext)
+
 [mininext npm](https://www.npmjs.com/package/@spirobel/mininext)
 
 ### Credits
